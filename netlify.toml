@@ -1,3 +1,7 @@
 [[edge_functions]]
   function = "geolocation-transform"
   path = "/"
+
+[[edge_functions]]
+  function = "planetscale-cache-example"
+  path = "/planetscale-cache-example"
